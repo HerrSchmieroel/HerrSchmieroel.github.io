@@ -1,0 +1,25 @@
+#ErsteZeiletext {
+    display: block;
+    text-align: center;
+
+}
+
+#ZweiteZeiletext {
+    display: block;
+    text-align: center;
+}
+#ErsteZeile
+{
+    display: grid;
+    justify-content: center;
+}
+#ZweiteZeile
+{
+    display: grid;
+    justify-content: center;
+}
+#Submit
+{
+    display: grid;
+    justify-content: center;   
+}
