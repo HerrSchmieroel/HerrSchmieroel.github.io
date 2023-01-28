@@ -1,0 +1,6 @@
+let numberone = window.prompt("Schreibe eine Zahl!")
+let numbertwo = window.prompt("Schreibe noch eine Zahl!")
+numberone = Number(numberone)
+numbertwo = Number(numbertwo)
+alert(numberone + numbertwo)
+console.log(numberone + numbertwo)
