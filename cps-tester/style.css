@@ -1,0 +1,50 @@
+body {
+    background-color: #121212;
+}
+#Titel {
+    color: #ffffff;
+    font-size: xx-large;
+}
+#Clickfield {
+    height: 300px;
+    width: 1000px;
+    border-radius: 20px;
+    
+}
+
+#Timertext {
+    color: #ffffff;
+    font-size: xx-large;
+    margin-left: 140px;
+}
+
+#scoretext {
+    color: #ffffff;
+    font-size: xx-large;
+    margin-right: 80px;
+}
+
+#timer {
+    color: #ffffff;
+    font-size: xx-large;
+    margin-left: 100px;
+}
+
+#score {
+    color: #ffffff;
+    font-size: xx-large;
+    margin-right: 200px; 
+}
+
+#nochmalspielentext {
+    color: #ffffff;
+}
+
+#Yes{
+    margin-right: 100px;
+    border-radius: 20px;
+}
+#No {
+    border-radius: 20px;
+}
+
