@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+#title {
+    color: white;
+    font-size: xx-large;
+}
+#cpstester {
+    background-color: blue;
+    border-radius: 5px;
+    height: 100px;
+    width: 500px;
+    color: black;
+}
+#ohiomarket {
+    background-color: purple;
+    border-radius: 5px;
+    height: 100px;
+    width: 500px;
+    color: black;
+}
+#calculator {
+    background-color: green;
+    border-radius: 5px;
+    height: 100px;
+    width: 500px;
+    color: black;
+}
