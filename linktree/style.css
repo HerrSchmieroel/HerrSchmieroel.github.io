@@ -26,3 +26,13 @@ body {
     width: 500px;
     color: black;
 }
+#rock_paper_scissors {
+    background-color: orangered;
+    border-radius: 5px;
+    height: 100px;
+    width: 500px;
+    color: black;
+}
+button:hover {
+    cursor: pointer;
+}
