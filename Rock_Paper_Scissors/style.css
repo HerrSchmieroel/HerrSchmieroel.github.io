@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(to right, purple , blue);
+}
+
+#title {
+    font-size: xx-large;
+}
+
+#desc {
+    font-size: x-large;
+    
+}
+#rock {
+    border-radius: 20px;
+    margin-left: 250px;
+    height: 100px;
+    width: 300px;
+    
+}
+#paper {
+    border-radius: 20px;
+    height: 100px;
+    width: 300px;
+}
+#scissors {
+    border-radius: 20px;
+    margin-right: 250px;
+    height: 100px;
+    width: 300px;
+}
+#question {
+    font-size: x-large;
+}
+
+#retry {
+    border-radius: 10px;
+    height: 40px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+  
