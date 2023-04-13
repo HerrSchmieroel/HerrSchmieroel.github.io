@@ -33,6 +33,13 @@ body {
     width: 500px;
     color: black;
 }
+#github {
+    background-color: red;
+    border-radius: 20px;
+    height: 100px;
+    width: 500px;
+    color: black;
+}
 button:hover {
     cursor: pointer;
 }
