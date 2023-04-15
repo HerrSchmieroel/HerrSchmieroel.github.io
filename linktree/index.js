@@ -10,6 +10,9 @@ document.getElementById("calculator").onclick = function() {
 document.getElementById("rock_paper_scissors").onclick = function() {
     window.location.href = "https://herrschmieroel.github.io/Rock_Paper_Scissors/index.html";
 }
+<<<<<<< HEAD
 document.getElementById("discordbots").onclick = function() {
     window.location.href = "discordbots/bot.html";
+document.getElementById("github").onclick = function() {
+    window.location.href = "https://github.com/HerrSchmieroel";
 }
