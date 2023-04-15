@@ -33,6 +33,13 @@ body {
     width: 500px;
     color: black;
 }
+#discordbots {
+    background-color: #7289DA;
+    border-radius: 20px;
+    height: 100px;
+    width: 500px;
+    color: black;
+}
 button:hover {
     cursor: pointer;
 }
