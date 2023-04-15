@@ -13,6 +13,8 @@ document.getElementById("rock_paper_scissors").onclick = function() {
 
 document.getElementById("discordbots").onclick = function() {
     window.location.href = "discordbots/bot.html";
+}
+
 document.getElementById("github").onclick = function() {
     window.location.href = "https://github.com/HerrSchmieroel";
 }
