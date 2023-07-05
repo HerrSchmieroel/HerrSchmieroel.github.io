@@ -16,19 +16,10 @@ function computer() {
     randomItem = items[randomIndex];
 }
 
-function animation() {
-      
-    alert("Rock")
-    alert("Paper")
-    alert("Scissor")
-    
-}
-
 
 
 document.getElementById("rock").onclick = function() {
     answer = "Rock"
-    animation();
     computer();
     document.getElementById("rock_paper_scissors").innerHTML = randomItem
     if (answer == randomItem) {
@@ -51,7 +42,6 @@ document.getElementById("rock").onclick = function() {
 
 document.getElementById("paper").onclick = function() {
     answer = "Paper"
-    animation();
     computer();
     document.getElementById("rock_paper_scissors").innerHTML = randomItem
     if (answer == randomItem) {
@@ -72,7 +62,6 @@ document.getElementById("paper").onclick = function() {
 
 document.getElementById("scissors").onclick = function() {
     answer = "Scissors"
-    animation();
     computer();
     document.getElementById("rock_paper_scissors").innerHTML = randomItem
     if (answer == randomItem) {
